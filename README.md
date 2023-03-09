@@ -16,17 +16,17 @@ This route returns a json dictionary of dates and precipitation amounts that day
 This route returns a json list of stations from the data
 <br />
 <br />
-<b><a href=\"/api/v1.0/tobs\">/api/v1.0/tobs</a></b> <br />
+<b>/api/v1.0/tobs</a></b> <br />
 This route returns a json list of temperature observations for the last year <br />
 from the most active weather station<br />
 <br />
 <br />
-<b><a href=\"/api/v1.0/start/2014-09-09\">/api/v1.0/start</a></b> <br />
+<b>/api/v1.0/start</a></b> <br />
 This route returns a json list of min, max and avg temps for all dates after a provided start date.<br />
 from the most active weather station<br />
 <br />
 <br />
-<b><a href=\"/api/v1.0/range?start=2014-09-14&end=2016-02-14\">/api/v1.0/range</a></b> <br />
+<b>/api/v1.0/range</a></b> <br />
 This route returns a json list of min, max and avg temps for a given date range.<br />
 You can enter a range or specify only a start and end date.<br /><br />
 If only a start or end is specified, all dates from the data set leading up to<br />
